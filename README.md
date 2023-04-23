@@ -1,4 +1,14 @@
-### Hi there 👋
+### JinHan's GitHub
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=Kau0303)](https://solved.ac/Kau0303)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinHan98&count_bg=%236DF308&title_bg=%23EDE608&icon=spring.svg&icon_color=%23090909&title=%EC%98%A4%EB%8A%98+%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Kau0303)](https://solved.ac/Kau0303)
+
+
+![JinHan98's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHan98&show_icons=true&theme=radical)
+
 
 <!--
 **JinHan98/JinHan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
