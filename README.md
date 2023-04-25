@@ -15,6 +15,7 @@
 
 
 ![JinHan98's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHan98&show_icons=true&theme=radical)
+<img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinHan98&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 
 <!--
