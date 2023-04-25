@@ -9,9 +9,7 @@
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/-Spring%20Boot-%FFFFFFF?style=plastic&logo=springboot&logocolor=#6DB33F"/></a>
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/-Spring-brightgreen?style=plastic&logo=spring&logocolor=#6DB33F"/></a>
 
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Kau0303)](https://solved.ac/Kau0303)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Kau0303)](https://solved.ac/Kau0303)
 
 
 ![JinHan98's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHan98&show_icons=true&theme=radical)
