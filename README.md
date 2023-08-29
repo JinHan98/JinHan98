@@ -12,8 +12,8 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Kau0303)](https://solved.ac/Kau0303)
 
 
-![JinHan98's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHan98&show_icons=true&theme=radical)
-<img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinHan98&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+![JinHan98's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHan98&show_icons=true&theme=dark)
+<img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinHan98&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 [![JinHan98's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JinHan98)](https://github.com/anuraghazra/github-readme-stats)
 <!--
